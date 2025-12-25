@@ -1,0 +1,25 @@
+# Controller mapping for fzf navigation
+# D-pad for navigation, A for select, B for back
+
+# D-pad navigation
+up = up
+down = down
+left = left
+right = right
+
+# Face buttons
+a = enter
+b = esc
+x = tab
+y = space
+
+# Menu buttons
+start = enter
+select = esc
+guide = esc
+
+# Shoulder buttons (page up/down)
+l1 = pageup
+l2 = home
+r1 = pagedown
+r2 = end
