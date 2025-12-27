@@ -67,7 +67,7 @@ version_greater() {
 ############################################################################
 main() {
     if ! check_connectivity; then
-        "$SHOW_MSG" "No internet connection|Cannot update yt-dlp" -l a
+        "$SHOW_MSG" "No internet connection | Cannot update yt-dlp" -l a
         exit 1
     fi
 
